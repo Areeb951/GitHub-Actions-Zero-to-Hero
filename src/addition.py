@@ -1,7 +1,6 @@
 # app.py
 # This is a test commit
 # My test commit
-# areeb
 def add(a, b):
     return a + b
 
